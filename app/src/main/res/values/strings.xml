@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="title_all">ALL</string>
+    <string name="title_todo">TODO</string>
+    <string name="title_progress">PROGRESS</string>
+    <string name="title_done">DONE</string>
+</resources>
